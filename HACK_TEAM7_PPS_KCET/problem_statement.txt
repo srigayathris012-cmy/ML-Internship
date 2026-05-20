@@ -1,0 +1,4 @@
+Students’ academic performance depends on their study habits such as daily study hours, class attendance, participation in class, and mobile phone usage.
+Manually evaluating how these factors affect performance is difficult.
+
+This project aims to predict a student’s final score (out of 100) using Linear Regression based on study habit data collected through a survey.
